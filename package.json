@@ -9,6 +9,8 @@
   "author": "psanatov@gmail.com",
   "license": "ISC",
   "dependencies": {
+    "angular": "^1.6.9",
+    "ejs": "^2.5.7",
     "express": "^4.16.2"
   }
 }
